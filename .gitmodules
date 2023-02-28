@@ -1,3 +1,9 @@
 [submodule "ABUAD-SSE-DEVELOPMENT"]
 	path = ABUAD-SSE-DEVELOPMENT
 	url = https://github.com/Nneji123/ABUAD-SSE-DEVELOPMENT.git
+[submodule "ABUAD-LMS"]
+	path = ABUAD-LMS
+	url = https://github.com/Nneji123/ABUAD-LMS.git
+[submodule "ABUAD-HMS"]
+	path = ABUAD-HMS
+	url = https://github.com/Nneji123/ABUAD-HMS.git
