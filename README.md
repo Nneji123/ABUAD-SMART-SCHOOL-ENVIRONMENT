@@ -12,8 +12,6 @@
 [![Postgres](https://img.shields.io/badge/Postgres-darkblue.svg?style=flat&logo=postgres&logoColor=white)](https://github.com/Nneji123/ABUAD-SMART-SCHOOL-ENVIRONMENT)
 ![hosted](https://img.shields.io/badge/Railway-430098?style=flat&logo=railway&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
-[![Gitpod](https://img.shields.io/badge/Gitpod-orange?style=flat&logo=gitpod&logoColor=white)](https://gitpod.io/#https://github.com/Nneji123/ABUAD-SMART-SCHOOL-ENVIRONMENT)
-![reposize](https://img.shields.io/github/repo-size/Nneji123/ABUAD-SMART-SCHOOL-ENVIRONMENT)
 </div>
 
 # ABUAD Smart School Environment
