@@ -14,7 +14,6 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
 </div>
 
-# ABUAD Smart School Environment
 
 The ABUAD Smart School Environment is a project carried out by [Nneji Ifeanyi](https://github.com/Nneji123) and [Ogunkuade Ayobamidele](https://github.com/devXcant). It is a comprehensive system designed to enhance the learning experience and improve safety and security within the Afe Babalola University Ado-Ekiti (ABUAD) campus. The system includes two primary components: the ABUAD Hostel Monitoring System (HMS) and the ABUAD Learning Management System (LMS).
 
