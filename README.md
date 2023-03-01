@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./logo.png" alt="ABUAD LMS Logo", width="120", height="120">
 </p>
-<h1 align="center">ABUAD SME (Smart School Environment)</h1>
+<h1 align="center">ABUAD SE (Smart School Environment)</h1>
 <div align="center">
 
 [![Language](https://img.shields.io/badge/Python-darkblue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
